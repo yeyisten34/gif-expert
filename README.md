@@ -1,3 +1,5 @@
-yarn install
+Instalar aplicacion.
 
+
+yarn install
 yarn dev
